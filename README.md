@@ -8,3 +8,5 @@ A collection of my machine learning notebooks, trying out kaggle and real world 
 ## .Titanic 2.0
   Had a 78% accuracy with this notebook :), data collected from the Kaggle Titanic Competition
  
+## Fake News Indicator
+  Using NLP for feature engineering and Logistic Regression for Classification
